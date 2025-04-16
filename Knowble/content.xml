@@ -1,0 +1,14 @@
+<courses>
+  <course category="programming" popularity="8">
+    <title>Introduction to JavaScript</title>
+    <description>Learn the basics of JavaScript for web development.</description>
+  </course>
+  <course category="design" popularity="5">
+    <title>UI/UX Fundamentals</title>
+    <description>Design better user interfaces and user experiences.</description>
+  </course>
+  <course category="business" popularity="10">
+    <title>Startup 101</title>
+    <description>Learn how to launch and grow your own startup.</description>
+  </course>
+</courses>

@@ -1,0 +1,41 @@
+<courses>
+    <course>
+        <title>Introduction to HTML</title>
+        <description>Learn the basics of HTML.</description>
+        <thumbnail>images/html.png</thumbnail>
+        <duration>1.5 hours</duration>
+        <level>Beginner</level>
+        <lesson>
+            <title>Lesson 1: Basic Structure</title>
+            <content>This lesson covers the basic structure of an HTML document.</content>
+        </lesson>
+    </course>
+
+    <course>
+        <title>JavaScript Basics</title>
+        <description>Learn the fundamentals of JavaScript programming.</description>
+        <thumbnail>images/javascript.png</thumbnail>
+        <duration>2 hours</duration>
+        <level>Beginner</level>
+        <lesson>
+            <title>Lesson 1: Variables and Functions</title>
+            <content>This lesson explains variables and functions in JavaScript.</content>
+        </lesson>
+    </course>
+
+    <course>
+        <title>Advanced CSS</title>
+        <description>Deep dive into CSS for advanced styling techniques.</description>
+        <thumbnail>images/css.png</thumbnail>
+        <duration>2.5 hours</duration>
+        <level>Advanced</level>
+        <lesson>
+            <title>Lesson 1: Flexbox and Grid</title>
+            <content>This lesson covers the use of Flexbox and Grid for layout.</content>
+        </lesson>
+        <lesson>
+            <title>Lesson 2: Animations</title>
+            <content>This lesson explores CSS animations and transitions.</content>
+        </lesson>
+    </course>
+</courses>
